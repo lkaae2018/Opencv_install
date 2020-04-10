@@ -1,0 +1,13 @@
+For OpenCV-master : Python 3
+1
+	workon OpenCV-master-py3
+
+Once you have activated the virtual environment, you can enter Python shell and test OpenCV version.
+1
+	ipython
+2
+	import cv2
+3
+	print(cv2.__version__)
+
+Hope this script proves to be useful for you :). Stay tuned for more interesting stuff. In case of any queries, feel free to comment below and we will get back to you as soon as possible.
